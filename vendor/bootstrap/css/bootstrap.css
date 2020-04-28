@@ -12,6 +12,11 @@ html {
 body {
   margin: 0;
 }
+
+#dealio {
+  background-color: #f06292 !important;
+}
+
 article,
 aside,
 details,
