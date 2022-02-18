@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "PilarCha",
   name: "Pilar Chavez",
   designation: "Full-Stack Developer",
-  avatarUrl: "/avatar.png",
+  avatarUrl: "/avatar.jpeg",
   email: "pchavez92@gmail.com",
   address: "Las Vegas, NV",
   projects: [
