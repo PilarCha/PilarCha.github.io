@@ -7,18 +7,18 @@ const userData = {
   address: "Las Vegas, NV",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      title: "Vue Pomodoro Timer",
+      link: "https://github.com/PilarCha/Vue-Pomodoro",
+      imgUrl: "/mainintro.gif",
     },
     {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
+      title: "FaShare",
+      link: "https://devpost.com/software/fashare-jp12ku",
       imgUrl: "/placeholdertech.png",
     },
     {
       title: "Portfolio",
-      link: "https://manuarora.in",
+      link: "https://pilarcha.github.io./",
       imgUrl: "/portfolio.png",
     },
     {
