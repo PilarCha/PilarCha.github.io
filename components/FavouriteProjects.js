@@ -35,13 +35,13 @@ export default function FavouriteProjects() {
         <div className="grid md:grid-cols-3 gap-8 lg:-mt-8 pb-40">
           {/* Single card */}
           <a
-            href="https://tailwindmasterkit.com"
+            href="https://github.com/PilarCha/Vue-Pomodoro"
             target="_blank"
             className="w-full block col-span-3 shadow-2xl"
           >
             <div className="relative overflow-hidden">
               <img
-                src="/tmk.jpg"
+                src="/mainintro.gif"
                 alt="portfolio"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
