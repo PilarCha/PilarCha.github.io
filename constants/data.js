@@ -51,9 +51,9 @@ const userData = {
     title:
       "I'm a software developer that loves building products and web applications.",
     description: [
-      `I fell in love with programming after attending my first free meetup after my shifts working as a landscaper. I was mentored by the most patience and generous meetup group. I learned how to full stack program in Python/Django as well as Bootstrap.`,
-      `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-      `But now, I'm a legend. I've been coding in React, Angular, Vue, Svelte, Node.js, Express, Fastify, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Rust, Haskell, Perl, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+      `I fell in love with programming after attending my first free meetup after my shifts working as a landscaper. I was mentored by the most patient and generous meetup group. I dived deep into full stack program with Python/Django.`,
+      `Knowing I wanted to follow programming as a career path. I decided to join a boot camp where I learned 3 full stack frameworks.`,
+      `I got my first job as a software developer working in a team of 2 in a small company. After 3 long years and being laid off due to company incompetence I acheieved my dream job of working remotely.`,
     ],
     currentProject: "Vue Pomodoro Timer",
     currentProjectUrl: "https://github.com/PilarCha/Vue-Pomodoro",
