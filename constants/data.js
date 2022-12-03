@@ -60,18 +60,23 @@ const userData = {
   },
   experience: [
     {
-      title: "Software Developer",
-      company: "mroads",
-      year: "2021",
-      companyLink: "https://mroads.com",
-      desc: "Contributed to our flagship product - Panna - which is an AI powered candidate interviewing product.",
+      title: "Software Engineer",
+      company: "PayNearme",
+      year: "2022 - Now",
+      companyLink: "https://home.paynearme.com/",
+      desc: "Worked in a cross-functional team migrating a rails application from a monolithic system design to a microservice one.",
     },
     {
-      title: "Founder and Developer",
-      company: "TailwindMasterKit",
-      year: "2021",
-      companyLink: "https://tailwindmasterkit.com",
-      desc: "Developed a marketplace for tailwind web components (React, HTML and Angular) and templates.",
+      title: "Software Developer",
+      company: "General Micro Systems",
+      year: "2018 - 2021",
+      companyLink: "https://www.gms4sbc.com/",
+      desc: `Optimized SQL and T-SQL queries, increasing companies monolithic web applications loading times up to 40%
+            Improved developers team workflow by 150% integrating Version Control: Git, documentation, and Agile best practices
+            Lead the project of switching our Front-End from basic HTML, CSS, and Bootstrap to Vue.js including Unit Testing and reusable components.
+            Managed multiple projects while working independently constructing custom applications 
+            Maintained, redesigned, and tested applications to meet company’s and end users expectations
+            Leveraged Knowledge in a team of 2, using Vue.js, CSS and Bootstrap for the Front-End architecture, with SQL Database and Low-Code E-base framework for the Back-End`,
     },
     {
       title: "Founder and Developer",
